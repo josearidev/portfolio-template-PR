@@ -25,4 +25,4 @@ Si se presenta un problema se consulta con los instructores.
 
 ## Recursos
 
-Si puede crear un avatar para en este proyecto, en [Open Peeps](https://www.openpeeps.com) donde se puede personalizar y descargar tu propio avatar con el mismo estilo y gratis.
+Se puede crear un avatar para este proyecto, en [Open Peeps](https://www.openpeeps.com) donde se puede personalizar y descargar tu propio avatar con el mismo estilo y gratis.
